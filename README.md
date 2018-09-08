@@ -1,4 +1,4 @@
-# PDFRenderService
+# HTML2PDFWebService
 
 For more than 20 years I have worked with rendering information collected from all sorts of datasources to the end user typically using HTML.  Almost all of the same end users inevitably have asked for a means to print out these elaborate displays of information.  One such way has been to convert the HTML into a PDF so that the final document can be distributed and printed from printers and other print services not necessarily attached to the computer the end user was viewing the HTML on.
 
